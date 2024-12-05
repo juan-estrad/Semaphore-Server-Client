@@ -177,5 +177,7 @@ gcc -o client Client.c
 
 ---
 
-Explore OS concepts with this interactive semaphore and message passing system!
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
